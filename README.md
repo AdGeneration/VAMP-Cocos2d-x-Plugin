@@ -1,6 +1,6 @@
 # VAMP-Cocos2d-x-Plugin
 
-最新バージョン 1.0.1
+最新バージョン 1.1.0
 
 ## VAMPCocos2dxプラグイン導入マニュアル
 
