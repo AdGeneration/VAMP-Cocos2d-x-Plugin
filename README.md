@@ -1,14 +1,12 @@
 # VAMP-Cocos2d-x-Plugin
 
-最新バージョン 4.1.3
-
 ## v4
 
 ### ドキュメント
 
 v4系プラグインのドキュメントは下記リンクをご参照ください。
 
-[https://docs.sdk.vamp.ad-generation.jp/docs/cocos2dx/](https://docs.sdk.vamp.ad-generation.jp/docs/cocos2dx/)
+https://supership-jp.github.io/VAMP-SDK-Document/cocos2dx/
 
 ## v3 (Deprecated)
 
