@@ -1,5 +1,9 @@
 # VAMP-Cocos2d-x-Plugin
 
+## 最新バージョン
+
+[4.7.0](https://github.com/AdGeneration/VAMP-Cocos2d-x-Plugin/releases/tag/v4.7.0)
+
 ## v4
 
 ### ドキュメント
