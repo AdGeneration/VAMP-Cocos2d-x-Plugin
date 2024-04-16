@@ -2,23 +2,10 @@
 
 ## 最新バージョン
 
-[4.7.0](https://github.com/AdGeneration/VAMP-Cocos2d-x-Plugin/releases/tag/v4.7.0)
+[5.1.1](https://github.com/AdGeneration/VAMP-Cocos2d-x-Plugin/releases/tag/v5.1.1)
 
-## v4
+## ドキュメント
 
-### ドキュメント
-
-v4系プラグインのドキュメントは下記リンクをご参照ください。
+VAMPCocos2dxプラグインのドキュメントは下記リンクをご参照ください。
 
 https://supership-jp.github.io/VAMP-SDK-Document/cocos2dx/
-
-## v3 (Deprecated)
-
-### ドキュメント
-#### VAMPCocos2dxプラグイン導入マニュアル
-
-[https://github.com/AdGeneration/VAMP-Cocos2d-x-Plugin/wiki/Integration-Guide](https://github.com/AdGeneration/VAMP-Cocos2d-x-Plugin/wiki/Integration-Guide)
-
-#### API Reference
-
-[https://github.com/AdGeneration/VAMP-Cocos2d-x-Plugin/wiki/API-Reference](https://github.com/AdGeneration/VAMP-Cocos2d-x-Plugin/wiki/API-Reference)
